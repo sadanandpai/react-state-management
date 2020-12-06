@@ -1,6 +1,6 @@
 # React State Management
 
-## The project helps to learn the basic implementation of different state management techniques along with popular libraries. Project is built using 'create-react-app'
+### The project helps to learn the basic implementation of different state management techniques along with popular libraries. Project is built using 'create-react-app'
 
 <a href="https://sadanandpai.github.io/react-state-management/">Live Demo</a>
 
