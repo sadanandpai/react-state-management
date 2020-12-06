@@ -1,6 +1,6 @@
 # React State Management
 
-## The project helps to learn the basic implementation of different state management techniques along with popular libraries
+## The project helps to learn the basic implementation of different state management techniques along with popular libraries. Project is built using 'create-react-app'
 
 <a href="https://sadanandpai.github.io/react-state-management/">Live Demo</a>
 
@@ -21,3 +21,9 @@ The state is managed by RxJS which helps the state flows with observers and obse
 
 ### MobX State Management
 The state is managed by MobX which helps the state flows with observers and observables
+
+To run it locally
+- clone the repo
+- Navigate to 'source_code'
+- Run `npm install`
+- Run  `npm start`
