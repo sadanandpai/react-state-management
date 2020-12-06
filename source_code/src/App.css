@@ -1,0 +1,48 @@
+.app {
+  text-align: center;
+}
+.app > div {
+  border: 1px dashed darkred;
+  margin: 1%;
+  padding: 1%;
+}
+
+h2 {
+  color: teal;
+}
+
+h3 {
+  margin: 0 0;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex div:first-child {
+  flex-basis: 500px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background-color: #61dafb;
+  border: none;
+  box-shadow: 2px 2px 4px 1px grey;
+  cursor: pointer;
+  outline: none;
+}
+
+button:active {
+  box-shadow: none;
+  box-shadow: 0px 0px 1px 1px grey;
+}
+
+.count-value {
+  flex-basis: 100px;
+  font-size: 2rem;
+  text-align: center;
+  transition: all 1s;
+}
