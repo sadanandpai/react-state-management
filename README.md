@@ -19,6 +19,9 @@ The state is managed by redux which maintains the store and saga helps asynchron
 ### Redux Toolkit State Management
 The state is managed by redux toolkit which reduces the boilerplate code and reduces the logic handling effort
 
+### Recoilt State Management
+The state is managed by recpil which reduces works on atoms, selectors with hooks
+
 ### RxJS State Management
 The state is managed by RxJS which helps the state flows with observers and observables
 
