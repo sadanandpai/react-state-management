@@ -14,7 +14,10 @@ The state is managed by creating the custom hook and passed on to the components
 The state is managed by redux which maintains the store and thunk helps for asynchronous flows
 
 ### Redux Saga State Management
-The state is managed by redux which maintains the store and saga helps asynchronous flowss
+The state is managed by redux which maintains the store and saga helps asynchronous flows
+
+### Redux Toolkit State Management
+The state is managed by redux toolkit which reduces the boilerplate code and reduces the logic handling effort
 
 ### RxJS State Management
 The state is managed by RxJS which helps the state flows with observers and observables
