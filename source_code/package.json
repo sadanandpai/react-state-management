@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0",
     "mobx": "^6.0.4",
     "mobx-react": "^7.0.5",
     "react": "^17.0.1",

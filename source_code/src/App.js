@@ -5,6 +5,7 @@ import PureReactSM from "./PureReactSM/PureReactSM";
 import CustomHooksSM from "./CustomHooksSM/CustomHooksSM";
 import ReduxThunkSM from "./ReduxThunkSM/ReduxThunkSM";
 import ReduxSagaSM from "./ReduxSagaSM/ReduxSagaSM";
+import ReduxToolKitSM from "./ReduxToolKitSM/ReduxToolKitSM";
 import MobXSM from "./MobXSM/MobXSM";
 import RxJSSM from "./RxJSSM/RxJSSM";
 
@@ -16,6 +17,7 @@ function App(props) {
       <CustomHooksSM title="React Hooks State Management" />
       <ReduxThunkSM title="Redux Thunk State Management" />
       <ReduxSagaSM title="Redux Saga State Management" />
+      <ReduxToolKitSM title="Redux Toolkit State Management" />
       <RxJSSM title="RxJS State Management" />
       <MobXSM title="MobX State Management" />
     </div>
