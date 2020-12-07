@@ -6,8 +6,9 @@ import CustomHooksSM from "./CustomHooksSM/CustomHooksSM";
 import ReduxThunkSM from "./ReduxThunkSM/ReduxThunkSM";
 import ReduxSagaSM from "./ReduxSagaSM/ReduxSagaSM";
 import ReduxToolKitSM from "./ReduxToolKitSM/ReduxToolKitSM";
-import MobXSM from "./MobXSM/MobXSM";
+import RecoilSM from "./RecoilSM/RecoilSM";
 import RxJSSM from "./RxJSSM/RxJSSM";
+import MobXSM from "./MobXSM/MobXSM";
 
 function App(props) {
   return (
@@ -18,6 +19,7 @@ function App(props) {
       <ReduxThunkSM title="Redux Thunk State Management" />
       <ReduxSagaSM title="Redux Saga State Management" />
       <ReduxToolKitSM title="Redux Toolkit State Management" />
+      <RecoilSM title="Recoil State Management" />
       <RxJSSM title="RxJS State Management" />
       <MobXSM title="MobX State Management" />
     </div>
